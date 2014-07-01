@@ -1,0 +1,10 @@
+{
+  "name" : "group tracking",
+  "description" : "group geo-tracking.",
+  "version" : "0.0.1",
+  "author" : "Antoine Delaunay <antoine@delaunay.org>",
+  "engines" : ["node"],
+  "dependencies" : {
+    "ws" : ">=0.4.31",
+  }
+}
